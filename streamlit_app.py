@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labals[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://www.kfoodtimes.com/news/photo/202106/16159_27527_3716.png"]},
-    labals[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://i.namu.wiki/i/j2AxLP9AtrcJebh4DVfGxowfXwI3a95dG_YZb_Ktczc6Ca7ACyd_NJL3YHQMw8SABGTQiJDwSpySOSSBLZVEZw.webp"]},
-    labals[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/2756808e5603db7a18c4f5ee9a699ee41.jpg"]},
-    labals[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tangsuyuk_%28Korean_Chinese_sweet_and_sour_pork%29.jpg/250px-Tangsuyuk_%28Korean_Chinese_sweet_and_sour_pork%29.jpg"]},
+    labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://www.kfoodtimes.com/news/photo/202106/16159_27527_3716.png"]},
+    labels[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://i.namu.wiki/i/j2AxLP9AtrcJebh4DVfGxowfXwI3a95dG_YZb_Ktczc6Ca7ACyd_NJL3YHQMw8SABGTQiJDwSpySOSSBLZVEZw.webp"]},
+    labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://recipe1.ezmember.co.kr/cache/recipe/2017/06/19/2756808e5603db7a18c4f5ee9a699ee41.jpg"]},
+    labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tangsuyuk_%28Korean_Chinese_sweet_and_sour_pork%29.jpg/250px-Tangsuyuk_%28Korean_Chinese_sweet_and_sour_pork%29.jpg"]},
     
 }
 
